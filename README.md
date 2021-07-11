@@ -1,10 +1,9 @@
 什么值得买每日签到脚本
-20210603update
-20210620update
-20210701update
-20210711update
-===
-    
+- 20210603update
+- 20210620update
+- 20210701update
+- 20210711update
+
 <p align="center">
     <img src="https://img.shields.io/badge/Created on-2020.10-green"/>
     <img src="https://img.shields.io/badge/Python-3.7-blue"/>
